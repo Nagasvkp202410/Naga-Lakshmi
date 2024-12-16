@@ -1,1 +1,0 @@
-package org.tnsif.capgemini.c2tc.jr_developer;

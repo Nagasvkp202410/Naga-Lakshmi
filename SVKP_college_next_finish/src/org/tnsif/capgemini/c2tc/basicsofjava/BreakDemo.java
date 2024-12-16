@@ -1,4 +1,4 @@
-package basicsofjava;
+package org.tnsif.capgemini.c2tc.basicsofjava;
 
 public class BreakDemo {
 	public static void main(String[]args) {

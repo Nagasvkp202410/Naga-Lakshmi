@@ -1,4 +1,4 @@
-package basicsofjava;
+package org.tnsif.capgemini.c2tc.basicsofjava;
 
 public class Built_in_packages {
 
