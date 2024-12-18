@@ -1,4 +1,4 @@
-package LambdaExpressionExample4;
+package org.tnsif.capgemini.c2tc.lambdaexpressiondemo;
 
 interface Addable{  
     int add(int a,int b);  
